@@ -1,7 +1,3 @@
-Here is a README file draft for your GitHub repository in British English:  
-
----
-
 ## **Adventure Works Sales Report**  
 
 ### **Overview**  
